@@ -1,28 +1,25 @@
 # 🌦️ WeatherAI – AI Weather Database Assistant
 
-An AI-powered weather database assistant built with **Python** and **Flask** that enables users to query weather information using natural language instead of writing SQL manually.
+An AI-powered weather data assistant developed with **Python** and **Flask** that enables users to query weather information using natural language instead of writing SQL manually.
 
-The application automatically interprets user questions, generates SQL queries, validates them for safety, executes them on the weather database, and displays the results in an intuitive interface.
+The application converts user questions into SQL queries, executes them safely, and displays the results through an intuitive interface with charts, multilingual support, and export capabilities.
 
 ---
 
 # 🚀 Features
 
-- 🤖 AI-powered Natural Language to SQL conversion
-- 🌍 Weather database search
-- 📊 Interactive statistics and charts
-- 📥 Export reports to:
-  - Excel
-  - Word
-  - PowerPoint
+- 🤖 Natural Language → SQL conversion
+- 🌦️ Weather database queries
+- 📊 Interactive charts and statistics
+- 🌍 Multilingual interface
 - 💬 Conversation history
-- 🌐 Multi-language interface
+- 📥 Export to Excel, Word and PowerPoint
 - 🔒 Safe SQL execution
 - 📱 Responsive web interface
 
 ---
 
-# 🛠️ Technologies
+# 🛠 Technologies
 
 - Python
 - Flask
@@ -30,32 +27,36 @@ The application automatically interprets user questions, generates SQL queries, 
 - CSS3
 - JavaScript
 - SQLite
-- OpenAI API
 - Jinja2
+- OpenAI API
 
 ---
 
-# 📂 Project Structure
+# 📂 Repository Structure
 
 ```
-Weather_AI/
+WeatherAI
 │
-├── Screenshots/
+├── README.md
 │
-├── Weather_AI/
-│   ├── exporters/
-│   ├── webapp/
-│   ├── README.md
-│   ├── agent.py
-│   ├── cli_app.py
-│   ├── config.py
-│   ├── db.py
-│   ├── logger.py
-│   ├── safety.py
-│   └── requirements.txt
-│
-├── .gitignore
-└── .gitattributes
+└── Weather_AI
+    ├── Screenshots
+    │   ├── homepage.png
+    │   ├── charts.png
+    │   ├── query.png
+    │   ├── Export.png
+    │   └── language_german.png
+    │
+    └── Weather_AI
+        ├── exporters/
+        ├── webapp/
+        ├── agent.py
+        ├── cli_app.py
+        ├── config.py
+        ├── db.py
+        ├── logger.py
+        ├── requirements.txt
+        └── README.md
 ```
 
 ---
@@ -68,10 +69,10 @@ Clone the repository
 git clone https://github.com/iftode/WeatherAI.git
 ```
 
-Navigate into the project
+Go to the project folder
 
 ```bash
-cd WeatherAI/Weather_AI
+cd WeatherAI/Weather_AI/Weather_AI
 ```
 
 Install dependencies
@@ -94,82 +95,57 @@ python cli_app.py
 
 ---
 
-# 🎯 Main Capabilities
-
-✔ Natural language weather queries
-
-✔ Automatic SQL generation
-
-✔ Secure SQL validation
-
-✔ Weather statistics
-
-✔ Interactive charts
-
-✔ Conversation history
-
-✔ Export to Excel, Word and PowerPoint
-
-✔ Multi-language support
-
-✔ Responsive user interface
-
----
-
 # 📸 Screenshots
 
-## Homepage
+## 🏠 Homepage
 
 ![Homepage](Weather_AI/Screenshots/homepage.png)
 
 ---
 
-## Weather Statistics
+## 📊 Weather Statistics
 
-![Statistics](Weather_AI/Screenshots/charts.png)
+![Charts](Weather_AI/Screenshots/charts.png)
 
 ---
 
-## AI Query
+## 🤖 AI Query
 
 ![Query](Weather_AI/Screenshots/query.png)
 
 ---
 
-## Export Results
+## 📤 Export Results
 
 ![Export](Weather_AI/Screenshots/Export.png)
 
 ---
 
-## German Language Interface
+## 🌍 German Language
 
 ![German](Weather_AI/Screenshots/language_german.png)
 
 ---
 
-# 🔒 Security
+# 🔐 Security
 
-The application includes several security mechanisms:
-
-- SQL query validation
-- Read-only query execution
-- Input validation
+- SQL validation
+- Safe database execution
+- Read-only query support
 - Exception handling
-- Safe database connections
+- Input validation
 
 ---
 
 # 📈 Future Improvements
 
 - User authentication
-- Cloud database integration
+- PostgreSQL support
 - Docker deployment
 - REST API
-- PostgreSQL support
-- AI model fine-tuning
+- AI model optimization
+- Cloud database support
 - Interactive dashboards
-- User profiles and saved conversations
 
 ---
 
@@ -185,4 +161,4 @@ GitHub: https://github.com/iftode
 
 # ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a ⭐ on GitHub.
