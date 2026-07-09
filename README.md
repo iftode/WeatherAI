@@ -99,31 +99,31 @@ python cli_app.py
 
 ## 🏠 Homepage
 
-![Homepage](./Weather_AI/Screenshots/homepage.png)
+![Homepage](https://raw.githubusercontent.com/iftode/WeatherAI/main/Weather_AI/Screenshots/homepage.png)
 
 ---
 
 ## 📊 Weather Statistics
 
-![Charts](./Weather_AI/Screenshots/charts.png)
+![Charts](https://raw.githubusercontent.com/iftode/WeatherAI/main/Weather_AI/Screenshots/charts.png)
 
 ---
 
 ## 🤖 AI Query
 
-![Query](./Weather_AI/Screenshots/query.png)
+![Query](https://raw.githubusercontent.com/iftode/WeatherAI/main/Weather_AI/Screenshots/query.png)
 
 ---
 
 ## 📤 Export Results
 
-![Export](./Weather_AI/Screenshots/Export.png)
+![Export](https://raw.githubusercontent.com/iftode/WeatherAI/main/Weather_AI/Screenshots/Export.png)
 
 ---
 
 ## 🌍 German Language
 
-![German](./Weather_AI/Screenshots/language_german.png)
+![German](https://raw.githubusercontent.com/iftode/WeatherAI/main/Weather_AI/Screenshots/language_german.png)
 
 ---
 
