@@ -1,0 +1,300 @@
+﻿entity,capital,category
+Abkhazia,Sukhumi,disputed_state
+Aceh,Banda Aceh,province
+Adjara,Batumi,autonomous_republic
+Afghanistan,Kabul,state_or_territory
+Alaska,Juneau,state
+Albania,Tirana,state_or_territory
+Algeria,Algiers,state_or_territory
+American Samoa,Pago Pago,state_or_territory
+Andalusia,Seville,autonomous_community
+Angola,Luanda,state_or_territory
+Anguilla,The Valley,state_or_territory
+Antigua and Barbuda,Saint John's,state_or_territory
+Aragon,Zaragoza,autonomous_community
+Argentina,Buenos Aires,state_or_territory
+Armenia,Yerevan,state_or_territory
+Aruba,Oranjestad,state_or_territory
+Australia,Canberra,state_or_territory
+Austria,Vienna,state_or_territory
+Azad Kashmir,Muzaffarabad,autonomous_region
+Azerbaijan,Baku,state_or_territory
+Baden-Württemberg,Stuttgart,state
+Bahrain,Manama,state_or_territory
+Bali,Denpasar,province
+Bangladesh,Dhaka,state_or_territory
+Barbados,Bridgetown,state_or_territory
+Bashkortostan,Ufa,republic
+Basque Country,Vitoria-Gasteiz,autonomous_community
+Bavaria,Munich,state
+Belarus,Minsk,state_or_territory
+Belgium,Brussels,state_or_territory
+Belize,Belmopan,state_or_territory
+Benin,Porto-Novo,state_or_territory
+Bermuda,Hamilton,state_or_territory
+Bhutan,Thimphu,state_or_territory
+Bolivia,Sucre,state_or_territory
+Bosnia and Herzegovina,Sarajevo,state_or_territory
+Botswana,Gaborone,state_or_territory
+Brazil,Brasília,state_or_territory
+British Indian Ocean Territory,Diego Garcia,state_or_territory
+Brittany,Rennes,region
+Brunei,Bandar Seri Begawan,state_or_territory
+Bulgaria,Sofia,state_or_territory
+Burkina Faso,Ouagadougou,state_or_territory
+Burundi,Gitega,state_or_territory
+California,Sacramento,state
+Cambodia,Phnom Penh,state_or_territory
+Cameroon,Yaoundé,state_or_territory
+Canada,Ottawa,state_or_territory
+Cape Verde,Praia,state_or_territory
+Catalonia,Barcelona,autonomous_community
+Cayman Islands,George Town,state_or_territory
+Central African Republic,Bangui,state_or_territory
+Ceuta,Ceuta,autonomous_city
+Chad,N'Djamena,state_or_territory
+Chechnya,Grozny,republic
+Chile,Santiago,state_or_territory
+China,Beijing,state_or_territory
+Christmas Island,Flying Fish Cove,state_or_territory
+Cocos (Keeling) Islands,West Island,state_or_territory
+Colombia,Bogotá,state_or_territory
+Comoros,Moroni,state_or_territory
+Cook Islands,Avarua,state_or_territory
+Corsica,Ajaccio,region
+Costa Rica,San José,state_or_territory
+Crimea,Simferopol,disputed_region
+Croatia,Zagreb,state_or_territory
+Cuba,Havana,state_or_territory
+Curaçao,Willemstad,constituent_country
+Cyprus,Nicosia,state_or_territory
+Czech Republic,Prague,state_or_territory
+Côte d'Ivoire,Yamoussoukro,state
+Dagestan,Makhachkala,republic
+Democratic Republic of the Congo,Kinshasa,state_or_territory
+Denmark,Copenhagen,state_or_territory
+Djibouti,Djibouti,state_or_territory
+Dominica,Roseau,state_or_territory
+Dominican Republic,Santo Domingo,state_or_territory
+East Timor,Dili,state_or_territory
+Ecuador,Quito,state_or_territory
+Egypt,Cairo,state_or_territory
+El Salvador,San Salvador,state_or_territory
+Equatorial Guinea,Malabo,state_or_territory
+Eritrea,Asmara,state_or_territory
+Estonia,Tallinn,state_or_territory
+Eswatini,Mbabane,state
+Ethiopia,Addis Ababa,state_or_territory
+Falkland Islands,Stanley,state_or_territory
+Faroe Islands,Tórshavn,state_or_territory
+Federated States of Micronesia,Palikir,state_or_territory
+Fiji,Suva,state_or_territory
+Finland,Helsinki,state_or_territory
+France,Paris,state_or_territory
+French Guiana,Cayenne,state_or_territory
+French Polynesia,Papeetē,state_or_territory
+French Southern and Antarctic Lands,Port-aux-Français,state_or_territory
+Gabon,Libreville,state_or_territory
+Galicia,Santiago de Compostela,autonomous_community
+Georgia,Tbilisi,state_or_territory
+Germany,Berlin,state_or_territory
+Ghana,Accra,state_or_territory
+Gibraltar,Gibraltar,state_or_territory
+Greece,Athens,state_or_territory
+Greenland,Nuuk,state_or_territory
+Grenada,St. George's,state_or_territory
+Guadeloupe,Basse-Terre,state_or_territory
+Guam,Hagåtña,state_or_territory
+Guatemala,Guatemala City,state_or_territory
+Guernsey,St. Peter Port,state_or_territory
+Guinea,Conakry,state_or_territory
+Guinea-Bissau,Bissau,state_or_territory
+Guyana,Georgetown,state_or_territory
+Haiti,Port-au-Prince,state_or_territory
+Hawaii,Honolulu,state
+Hesse,Wiesbaden,state
+Honduras,Tegucigalpa,state_or_territory
+Hong Kong,City of Victoria,state_or_territory
+Hungary,Budapest,state_or_territory
+Iceland,Reykjavik,state_or_territory
+India,New Delhi,state_or_territory
+Indonesia,Jakarta,state_or_territory
+Iran,Tehran,state_or_territory
+Iraq,Baghdad,state_or_territory
+Ireland,Dublin,state_or_territory
+Isle of Man,Douglas,state_or_territory
+Israel,Jerusalem,state_or_territory
+Italy,Rome,state_or_territory
+Ivory Coast,Yamoussoukro,state_or_territory
+Jamaica,Kingston,state_or_territory
+Japan,Tokyo,state_or_territory
+Jersey,Saint Helier,state_or_territory
+Jordan,Amman,state_or_territory
+Karelia,Petrozavodsk,republic
+Kazakhstan,Astana,state_or_territory
+Kenya,Nairobi,state_or_territory
+Kiribati,South Tarawa,state_or_territory
+Kosovo,Pristina,disputed_state
+Kurdistan Region,Erbil,autonomous_region
+Kuwait,Kuwait City,state_or_territory
+Kyrgyzstan,Bishkek,state_or_territory
+Ladakh,Leh,union_territory
+Laos,Vientiane,state_or_territory
+Latvia,Riga,state_or_territory
+Lebanon,Beirut,state_or_territory
+Lesotho,Maseru,state_or_territory
+Liberia,Monrovia,state_or_territory
+Libya,Tripoli,state_or_territory
+Liechtenstein,Vaduz,state_or_territory
+Lithuania,Vilnius,state_or_territory
+Lombardy,Milan,region
+Lower Saxony,Hanover,state
+Luxembourg,Luxembourg,state_or_territory
+Macau,Macau,special_administrative_region
+Madagascar,Antananarivo,state_or_territory
+Madeira,Funchal,autonomous_region
+Malawi,Lilongwe,state_or_territory
+Malaysia,Kuala Lumpur,state_or_territory
+Maldives,Malé,state_or_territory
+Mali,Bamako,state_or_territory
+Malta,Valletta,state_or_territory
+Marshall Islands,Majuro,state_or_territory
+Martinique,Fort-de-France,state_or_territory
+Mauritania,Nouakchott,state_or_territory
+Mauritius,Port Louis,state_or_territory
+Mayotte,Mamoudzou,state_or_territory
+Melilla,Melilla,autonomous_city
+Mexico,Mexico City,state_or_territory
+Moldova,Chișinău,state_or_territory
+Monaco,Monaco,state_or_territory
+Mongolia,Ulan Bator,state_or_territory
+Montserrat,Plymouth,state_or_territory
+Morocco,Rabat,state_or_territory
+Mozambique,Maputo,state_or_territory
+Myanmar,Naypyidaw,state
+Namibia,Windhoek,state_or_territory
+Nauru,Yaren,state_or_territory
+Navarre,Pamplona,autonomous_community
+Nepal,Kathmandu,state_or_territory
+Netherlands,Amsterdam,state_or_territory
+New Caledonia,Nouméa,state_or_territory
+New South Wales,Sydney,state
+New Zealand,Wellington,state_or_territory
+Nicaragua,Managua,state_or_territory
+Niger,Niamey,state_or_territory
+Nigeria,Abuja,state_or_territory
+Niue,Alofi,state_or_territory
+Norfolk Island,Kingston,state_or_territory
+North Korea,Pyongyang,state_or_territory
+North Macedonia,Skopje,state
+North Rhine-Westphalia,Düsseldorf,state
+Northern Cyprus,North Nicosia,disputed_state
+Northern Mariana Islands,Saipan,state_or_territory
+Northern Territory,Darwin,territory
+Norway,Oslo,state_or_territory
+Oman,Muscat,state_or_territory
+Ontario,Toronto,province
+Pakistan,Islamabad,state_or_territory
+Palau,Ngerulmud,state_or_territory
+Panama,Panama City,state_or_territory
+Papua New Guinea,Port Moresby,state_or_territory
+Paraguay,Asunción,state_or_territory
+Peru,Lima,state_or_territory
+Philippines,Manila,state_or_territory
+Pitcairn Islands,Adamstown,state_or_territory
+Poland,Warsaw,state_or_territory
+Portugal,Lisbon,state_or_territory
+Puerto Rico,San Juan,state_or_territory
+Qatar,Doha,state_or_territory
+Quebec,Quebec City,province
+Queensland,Brisbane,state
+Republic of Macedonia,Skopje,state_or_territory
+Republic of the Congo,Brazzaville,state_or_territory
+Romania,Bucharest,state_or_territory
+Russia,Moscow,state_or_territory
+Rwanda,Kigali,state_or_territory
+Réunion,Saint-Denis,state_or_territory
+Saint Barthélemy,Gustavia,overseas_collectivity
+Saint Helena,Jamestown,state_or_territory
+Saint Kitts and Nevis,Basseterre,state_or_territory
+Saint Lucia,Castries,state_or_territory
+Saint Martin,Marigot,overseas_collectivity
+Saint Pierre and Miquelon,Saint-Pierre,state_or_territory
+Saint Vincent and the Grenadines,Kingstown,state_or_territory
+Sakha Republic,Yakutsk,republic
+Samoa,Apia,state_or_territory
+San Marino,City of San Marino,state_or_territory
+Sardinia,Cagliari,region
+Saudi Arabia,Riyadh,state_or_territory
+Saxony,Dresden,state
+Scotland,Edinburgh,constituent_country
+Senegal,Dakar,state_or_territory
+Serbia,Belgrade,state_or_territory
+Seychelles,Victoria,state_or_territory
+Sicily,Palermo,region
+Sierra Leone,Freetown,state_or_territory
+Singapore,Singapore,state_or_territory
+Sint Maarten,Philipsburg,constituent_country
+Slovakia,Bratislava,state_or_territory
+Slovenia,Ljubljana,state_or_territory
+Solomon Islands,Honiara,state_or_territory
+Somalia,Mogadishu,state_or_territory
+South Africa,Pretoria,state_or_territory
+South Georgia,King Edward Point,state_or_territory
+South Korea,Seoul,state_or_territory
+South Ossetia,Tskhinvali,disputed_state
+South Sudan,Juba,state_or_territory
+Spain,Madrid,state_or_territory
+Sri Lanka,Colombo,state_or_territory
+Sudan,Khartoum,state_or_territory
+Suriname,Paramaribo,state_or_territory
+Svalbard and Jan Mayen,Longyearbyen,state_or_territory
+Swaziland,Lobamba,state_or_territory
+Sweden,Stockholm,state_or_territory
+Switzerland,Bern,state_or_territory
+Syria,Damascus,state_or_territory
+São Tomé and Príncipe,São Tomé,state_or_territory
+Taiwan,Taipei,state_or_territory
+Tajikistan,Dushanbe,state_or_territory
+Tanzania,Dodoma,state_or_territory
+Tasmania,Hobart,state
+Tatarstan,Kazan,republic
+Thailand,Bangkok,state_or_territory
+Tibet,Lhasa,autonomous_region
+Togo,Lomé,state_or_territory
+Tokelau,Fakaofo,state_or_territory
+Tonga,Nuku'alofa,state_or_territory
+Transnistria,Tiraspol,disputed_state
+Trinidad and Tobago,Port of Spain,state_or_territory
+Tunisia,Tunis,state_or_territory
+Turkey,Ankara,state_or_territory
+Turkmenistan,Ashgabat,state_or_territory
+Turks and Caicos Islands,Cockburn Town,overseas_territory
+Tuva,Kyzyl,republic
+Tuvalu,Funafuti,state_or_territory
+Uganda,Kampala,state_or_territory
+Ukraine,Kyiv,state_or_territory
+United Arab Emirates,Abu Dhabi,state_or_territory
+United Kingdom,London,state_or_territory
+United States,Washington D.C.,state_or_territory
+Uruguay,Montevideo,state_or_territory
+Uzbekistan,Tashkent,state_or_territory
+Valencian Community,Valencia,autonomous_community
+Vanuatu,Port Vila,state_or_territory
+Venezuela,Caracas,state_or_territory
+Victoria (Australia),Melbourne,state
+Vietnam,Hanoi,state_or_territory
+Wales,Cardiff,constituent_country
+Wallis and Futuna,Mata-Utu,state_or_territory
+West Papua,Manokwari,province
+Western Australia,Perth,state
+Western Sahara,El Aaiún,state_or_territory
+Xinjiang,Urumqi,autonomous_region
+Yemen,Sana'a,state_or_territory
+Yucatán,Mérida,state
+Zambia,Lusaka,state_or_territory
+Zanzibar,Zanzibar City,semi_autonomous_region
+Zimbabwe,Harare,state_or_territory
+the Bahamas,Nassau,state_or_territory
+the Gambia,Banjul,state_or_territory
+Åland Islands,Mariehamn,autonomous_region

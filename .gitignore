@@ -1,0 +1,17 @@
+env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+*.sqlite3
+.vs/
+.idea/
+.vscode/
+*.zip
+*.rar
+*.7z
+Thumbs.db
+.DS_Store

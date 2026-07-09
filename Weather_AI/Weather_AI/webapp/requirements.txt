@@ -1,0 +1,10 @@
+flask
+openai
+pandas
+requests
+pymysql
+python-docx
+python-pptx
+openpyxl
+pycountry-convert
+cryptography
